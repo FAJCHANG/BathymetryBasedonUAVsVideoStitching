@@ -1,5 +1,6 @@
+make a new dir './dataset'
 put your left video that have downsampled by x hz to './dataset/left/'
-and right video correspondingly
+and right video correspondingly './dataset/right/'
 
 then open './Stitching/main.m'
 adjust parameters like "PointPerFrame", "TrackPerFrame", "TrackWindowSize" et al.
