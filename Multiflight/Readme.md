@@ -1,4 +1,4 @@
-make a new dir './dataset'
+make a new dir './dataset'  
 put your left video that have downsampled by x hz to './dataset/left/'
 and right video correspondingly './dataset/right/'
 
