@@ -1,4 +1,4 @@
-# Mapping-of-Nearshore-Bathymetry-Based-on-UAVs-Video-Stitching
+# Mapping of Nearshore Bathymetry Based on UAVs Video Stitching
 
 1.Prepare  
 &ensp;&ensp;You may use the external libraries  
