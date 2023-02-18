@@ -24,7 +24,7 @@
 &ensp;&ensp;5. Calculate camera extrinsics parameters;  
 &ensp;&ensp;6. Orthomorphic transformation;  
 &ensp;&ensp;But first of all, you have to down-sample the two videos and place the pictures to ``./dataset/left/`` and ``./dataset/right/``.  
-&ensp;&ensp;*Note: If you use your camera, please calibrate your camera's intrinsics parameters in advance. And place it to ``./Stitching/neededData/``.  
+&ensp;&ensp;*Note: Please calibrate your camera's intrinsics parameters in advance. And place it to ``./Stitching/neededData/``.  
 &ensp;&ensp;For specific operations and parameters, see the corresponding readme and comments between codes.  
 &ensp;&ensp;Some source code are also provided by Su Tan,  
 the original copy can be downloaded from this webpage https://github.com/SuTanTank/VideoStitchingViaShakinessRemoving  
