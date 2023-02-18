@@ -1,4 +1,5 @@
 ****本项目用于单架飞机获取正射变换图像****
+****首先在目录文件创建'./Vdieo'文件夹****
 ****先将视频放置于video文件夹中****
 ****然后matlab打开main文件****
 ****修改对应的参数直接开跑就可以了****
@@ -9,6 +10,7 @@
 
 
 **** This project is used to acquire orthographic transformed images for a single aircraft ****
+**** First create '/ Vdieo 'folder ****
 **** Start by placing the video in the video folder ****
 **** Then matlab opens the main file ****
 **** Modify the corresponding parameters and just run directly ****
