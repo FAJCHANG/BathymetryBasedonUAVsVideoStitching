@@ -1,7 +1,7 @@
 # Mapping of Nearshore Bathymetry Based on UAVs Video Stitching
 
 **1.Prepare**  
-&ensp;&ensp;Run environment: MatlabR2019b, python3  
+&ensp;&ensp;Run environment: MatlabR2019b or newer, python3.x (opencv-python)  
 &ensp;&ensp;You may use the external libraries  
 &ensp;&ensp;CVX: http://cvxr.com/cvx/  
 &ensp;&ensp;vlfeat: http://www.vlfeat.org/  
