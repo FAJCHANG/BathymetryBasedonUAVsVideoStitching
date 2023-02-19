@@ -30,5 +30,5 @@
 the original copy can be downloaded from this webpage https://github.com/SuTanTank/VideoStitchingViaShakinessRemoving  
   
 **4.Bathymetry method**  
-&ensp;&ensp;Including timeCor and cBathy algorithm.  
+&ensp;&ensp;Including timeCor algorithm.  
 &ensp;&ensp;When you finished SingleFlight or MultipleFlight mission, save the filter image, orthoimage, camera extrinsics files, then set parameters ``bathyParams.m`` file, (cite a case timeCor), run ``mainMakeTimeStack.m`` -> ``mainV2.m``.
