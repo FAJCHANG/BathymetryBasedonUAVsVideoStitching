@@ -1,4 +1,4 @@
-# Mapping of Nearshore Bathymetry Based on UAVs Video Stitching
+# Surveying of Nearshore Bathymetry Based on UAVs Video Stitching
 
 # Data can be downloaded at  
 &ensp;&ensp;[OneDrive](https://1drv.ms/u/s!AvmOjZm9GyDSkWhzqpRsGGTuETwX?e=RZIW6l)  
